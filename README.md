@@ -1,2 +1,2 @@
-# newsagg
+# news
 News aggregator for BHT
